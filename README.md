@@ -1,0 +1,1 @@
+C’est un projet ouvert où nous concevons nous-mêmes notre sujet en rédigeant un texte qui définit les contraintes du modèle à réaliser. Ce projet inclut la création d’un modèle conceptuel de traitement (MCT), d’un modèle conceptuel de données (MCD), ainsi que d’un script SQL comprenant l’insertion de données et des requêtes de niveaux de difficulté variés.
